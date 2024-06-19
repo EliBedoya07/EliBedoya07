@@ -17,7 +17,7 @@
 </div>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -29,3 +29,11 @@
 - :nerd_face: Siempre me gusta aprender `Nuevas Tecnologias`.
 - :thinking: Estoy interesado en conseguir `Nuevas oportunidades de Trabajo`, este es mi [Curriculum](https://drive.google.com/file/d/1xPZnQaE6PlXHN8ek9TN20qSshYcz6sEs/view).
 <br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,vuetify,sass,git,github,gitlab,npm,nuxtjs,postgres,supabase,tailwind,ts,laravel,php,py,html,css,js,mysql,docker,postman,vscode,&perline=12" />
+  </a>
+</p>
