@@ -56,7 +56,7 @@
 <div>
   <p>
     <a href="https://github.com/EliBedoya07/CrudPrueba">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elibedoya07-hash&repo=CrudPrueba" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EliBedoya07&repo=CrudPrueba" alt="GitHub Stats" />
     </a>
   </p>
 </div>
